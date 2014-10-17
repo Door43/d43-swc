@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swc:home|Door43 (swc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swc|d43-swc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swc/archive/master.zip|d43-swc.zip]]
+
+**Recent Changes**
+{{changes>ns = swc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swc|Ethnologue data]]
+
